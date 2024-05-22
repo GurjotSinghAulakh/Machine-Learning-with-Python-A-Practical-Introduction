@@ -39,4 +39,4 @@ jupyter notebook
 Then, navigate to the notebooks directory and open the notebook you want to work on.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE [https://github.com/GurjotSinghAulakh/Machine-Learning-with-Python-A-Practical-Introduction/blob/main/LICENSE] file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/GurjotSinghAulakh/Machine-Learning-with-Python-A-Practical-Introduction/blob/main/LICENSE) file for more details.
